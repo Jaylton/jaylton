@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Network Technician, Full Stack developer and Control and Automation Engineering student
+Computer Network Technician, Full Stack developer and Control and Automation Engineer
 
 
 ## 🌐 Socials:
